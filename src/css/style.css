@@ -102,7 +102,7 @@ main:after{
 
 @keyframes mudarImagem{
     from{
-        opacity: 0.85;
+        opacity: 0.70;
     }
     to{
         opacity: 1;
